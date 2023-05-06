@@ -1,5 +1,5 @@
 #
-# Carrie Rice & Sarah White
+# Sarah White
 # 4.16.23
 # Registration module for CSC121 group project
 #
